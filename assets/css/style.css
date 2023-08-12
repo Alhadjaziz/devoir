@@ -106,6 +106,7 @@ input {
     font-size: 15px;
     padding: 3px;
     margin-bottom: 25px;
+    
 }
 textarea {
     resize: none;
@@ -113,6 +114,8 @@ textarea {
     height: 150px;
     font-size: 15px;
     padding: 3px;
+    background-color: aqua;
+    color: black;
 }
 #userInputs {
     margin-left: 100px;
@@ -136,7 +139,7 @@ textarea {
     margin-top: 10px;
 }
 #btnSendMsg:hover {
-    background-color: white;
+    background-color:red;
     color: black;        
 }
 #footer 
